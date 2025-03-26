@@ -1,2 +1,2 @@
 # html-resume
-Just a basic html website, to get start with my web dev journey.
+Just a basic html website, to get started with my web dev journey.
